@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.dbProductService.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dbProductService.driverClassName'"
+  },
+  {
+    "name": "spring.dbProductService.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dbProductService.username'"
+  },
+  {
+    "name": "spring.dbProductService.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dbProductService.url'"
+  },
+  {
+    "name": "spring.dbProductService.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dbProductService.password'"
+  }
+]}
