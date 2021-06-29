@@ -1,4 +1,4 @@
-package com.hcl.usecase.attendanceapi;
+package com.sample.usecase.attendanceapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
